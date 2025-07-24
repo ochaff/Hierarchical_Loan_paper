@@ -1,0 +1,135 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Challu \bgroup et al\mbox.\egroup }{2022}]{NHITS}
+Challu, C.; Olivares, K.~G.; Oreshkin, B.~N.; Garza, F.; Mergenthaler-Canseco, M.; and Dubrawski, A.
+\newblock 2022.
+\newblock N-hits: Neural hierarchical interpolation for time series forecasting.
+
+\bibitem[\protect\citeauthoryear{Chen \bgroup et al\mbox.\egroup }{2023}]{TSmixer}
+Chen, S.-A.; Li, C.-L.; Yoder, N.; Arik, S.~O.; and Pfister, T.
+\newblock 2023.
+\newblock Tsmixer: An all-mlp architecture for time series forecasting.
+
+\bibitem[\protect\citeauthoryear{Das \bgroup et al\mbox.\egroup }{2023}]{Dirichlet}
+Das, A.; Kong, W.; Paria, B.; and Sen, R.
+\newblock 2023.
+\newblock Dirichlet proportions model for hierarchically coherent probabilistic forecasting.
+
+\bibitem[\protect\citeauthoryear{Eur}{2010}]{esa2010}
+Eurostat, Luxembourg.
+\newblock 2010.
+\newblock {\em European System of Accounts 2010}, 2010 edition.
+\newblock Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013.
+
+\bibitem[\protect\citeauthoryear{Gakamura}{2020}]{Thesis}
+Gakamura, P.
+\newblock 2020.
+\newblock {Probabilistic Forecast Reconciliation: Theory and Applications}.
+
+\bibitem[\protect\citeauthoryear{Gamakumara}{2020}]{probreconciliation}
+Gamakumara, P.
+\newblock 2020.
+\newblock {Probabilistic Forecast Reconciliation: Theory and Applications}.
+
+\bibitem[\protect\citeauthoryear{Han, Dasgupta, and Ghosh}{2021}]{SHARQ}
+Han, X.; Dasgupta, S.; and Ghosh, J.
+\newblock 2021.
+\newblock Simultaneously reconciled quantile forecasting of hierarchically related time series.
+
+\bibitem[\protect\citeauthoryear{Han, Hu, and Ghosh}{2023}]{DYCHEM}
+Han, X.; Hu, J.; and Ghosh, J.
+\newblock 2023.
+\newblock Dynamic combination of heterogeneous models for hierarchical time series.
+
+\bibitem[\protect\citeauthoryear{Hyndman and Athanasopoulos}{2018}]{bookhyndman}
+Hyndman, R., and Athanasopoulos, G.
+\newblock 2018.
+\newblock {\em Forecasting: Principles and Practice}.
+\newblock Australia: OTexts, 2nd edition.
+
+\bibitem[\protect\citeauthoryear{Hyndman \bgroup et al\mbox.\egroup }{2011}]{MinT}
+Hyndman, R.~J.; Ahmed, R.~A.; Athanasopoulos, G.; and Shang, H.~L.
+\newblock 2011.
+\newblock Optimal combination forecasts for hierarchical time series.
+\newblock {\em Computational Statistics \& Data Analysis} 55(9):2579--2589.
+
+\bibitem[\protect\citeauthoryear{Kamarthi \bgroup et al\mbox.\egroup }{2022}]{PROFHIT}
+Kamarthi, H.; Kong, L.; Rodr{\'\i}guez, A.; Zhang, C.; and Prakash, B.~A.
+\newblock 2022.
+\newblock Profhit: Probabilistic robust forecasting for hierarchical time-series.
+\newblock {\em arXiv preprint arXiv:2206.07940}.
+
+\bibitem[\protect\citeauthoryear{Kamarthi \bgroup et al\mbox.\egroup }{2024}]{HAILS}
+Kamarthi, H.; Sasanur, A.~B.; Tong, X.; Zhou, X.; Peters, J.; Czyzyk, J.; and Prakash, B.~A.
+\newblock 2024.
+\newblock Large scale hierarchical industrial demand time-series forecasting incorporating sparsity.
+
+\bibitem[\protect\citeauthoryear{Kim \bgroup et al\mbox.\egroup }{2022}]{revin}
+Kim, T.; Kim, J.; Tae, Y.; Park, C.; Choi, J.-H.; and Choo, J.
+\newblock 2022.
+\newblock Reversible instance normalization for accurate time-series forecasting against distribution shift.
+\newblock In {\em International Conference on Learning Representations}.
+
+\bibitem[\protect\citeauthoryear{Liu \bgroup et al\mbox.\egroup }{2024}]{itransformer}
+Liu, Y.; Hu, T.; Zhang, H.; Wu, H.; Wang, S.; Ma, L.; and Long, M.
+\newblock 2024.
+\newblock itransformer: Inverted transformers are effective for time series forecasting.
+
+\bibitem[\protect\citeauthoryear{Nie \bgroup et al\mbox.\egroup }{2023}]{PatchTST}
+Nie, Y.; Nguyen, N.~H.; Sinthong, P.; and Kalagnanam, J.
+\newblock 2023.
+\newblock A time series is worth 64 words: Long-term forecasting with transformers.
+
+\bibitem[\protect\citeauthoryear{Olivares \bgroup et al\mbox.\egroup }{2023}]{NBEATSx}
+Olivares, K.~G.; Challu, C.; Marcjasz, G.; Weron, R.; and Dubrawski, A.
+\newblock 2023.
+\newblock Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with nbeatsx.
+\newblock {\em International Journal of Forecasting} 39(2):884–900.
+
+\bibitem[\protect\citeauthoryear{Olivares \bgroup et al\mbox.\egroup }{2024}]{CLOVER}
+Olivares, K.~G.; Négiar, G.; Ma, R.; Meetei, O.~N.; Cao, M.; and Mahoney, M.~W.
+\newblock 2024.
+\newblock $\clubsuit$ clover $\clubsuit$: Probabilistic forecasting with coherent learning objective reparameterization.
+
+\bibitem[\protect\citeauthoryear{Oreshkin \bgroup et al\mbox.\egroup }{2020}]{NBEATS}
+Oreshkin, B.~N.; Carpov, D.; Chapados, N.; and Bengio, Y.
+\newblock 2020.
+\newblock N-beats: Neural basis expansion analysis for interpretable time series forecasting.
+
+\bibitem[\protect\citeauthoryear{Rangapuram \bgroup et al\mbox.\egroup }{2021}]{HierE2E}
+Rangapuram, S.~S.; Werner, L.~D.; Benidis, K.; Mercado, P.; Gasthaus, J.; and Januschowski, T.
+\newblock 2021.
+\newblock End-to-end learning of coherent probabilistic forecasts for hierarchical time series.
+\newblock In Meila, M., and Zhang, T., eds., {\em Proceedings of the 38th International Conference on Machine Learning}, volume 139 of {\em Proceedings of Machine Learning Research},  8832--8843.
+\newblock PMLR.
+
+\bibitem[\protect\citeauthoryear{Salinas, Flunkert, and Gasthaus}{2019}]{DeepAR}
+Salinas, D.; Flunkert, V.; and Gasthaus, J.
+\newblock 2019.
+\newblock Deepar: Probabilistic forecasting with autoregressive recurrent networks.
+
+\bibitem[\protect\citeauthoryear{Taieb, Taylor, and Hyndman}{2017}]{PERMBU}
+Taieb, S.~B.; Taylor, J.~W.; and Hyndman, R.~J.
+\newblock 2017.
+\newblock Coherent probabilistic forecasts for hierarchical time series.
+\newblock In Precup, D., and Teh, Y.~W., eds., {\em Proceedings of the 34th International Conference on Machine Learning}, volume~70 of {\em Proceedings of Machine Learning Research},  3348--3357.
+\newblock PMLR.
+
+\bibitem[\protect\citeauthoryear{van Erven and Cugliari}{2015}]{gtop}
+van Erven, T., and Cugliari, J.
+\newblock 2015.
+\newblock Game-theoretically optimal reconciliation of contemporaneous hierarchical time series forecasts.
+\newblock In Antoniadis, A.; Poggi, J.-M.; and Brossat, X., eds., {\em Modeling and Stochastic Learning for Forecasting in High Dimensions},  297--317.
+\newblock Cham: Springer International Publishing.
+
+\bibitem[\protect\citeauthoryear{Wen \bgroup et al\mbox.\egroup }{2018}]{MQCNN}
+Wen, R.; Torkkola, K.; Narayanaswamy, B.; and Madeka, D.
+\newblock 2018.
+\newblock A multi-horizon quantile recurrent forecaster.
+
+\bibitem[\protect\citeauthoryear{Zhang, Panagiotelis, and Li}{2024}]{cluster}
+Zhang, B.; Panagiotelis, A.; and Li, H.
+\newblock 2024.
+\newblock Constructing hierarchical time series through clustering: Is there an optimal way for forecasting?
+
+\end{thebibliography}
